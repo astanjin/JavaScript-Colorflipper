@@ -2,4 +2,4 @@
 
 ### Result is deployed in this URL:
 
-[ COLOR ] (https://mina-html-css-tea-station.netlify.app )
+[ COLOR ] (https://mina-colorflipper.netlify.app )
